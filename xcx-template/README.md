@@ -1,1 +1,0 @@
-### Template (C++) By XCX
